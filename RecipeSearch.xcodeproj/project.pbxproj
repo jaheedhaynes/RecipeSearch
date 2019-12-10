@@ -97,8 +97,9 @@
 		57E98675239F3A8D002C7C7B /* RecipeSearch */ = {
 			isa = PBXGroup;
 			children = (
-				57E98698239F3AC5002C7C7B /* Network Services */,
 				57E986A2239F3B0D002C7C7B /* Models */,
+				57E98698239F3AC5002C7C7B /* Network Services */,
+				57E9869B239F3AC5002C7C7B /* Extensions */,
 				57E986A1239F3AF2002C7C7B /* Controllers */,
 				57E986A3239F3B18002C7C7B /* Views */,
 				30F0814123A007460072D2B3 /* Secrets */,
@@ -150,7 +151,6 @@
 		57E986A1239F3AF2002C7C7B /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
-				57E9869B239F3AC5002C7C7B /* Extensions */,
 				57E9867A239F3A8D002C7C7B /* RecipeSearchController.swift */,
 			);
 			path = Controllers;
